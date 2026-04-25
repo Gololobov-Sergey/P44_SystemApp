@@ -2,5 +2,10 @@
   <Project Path="ConsoleApp1/ConsoleApp1.csproj" />
   <Project Path="ConsoleApp2/ConsoleApp2.csproj" Id="09ae85de-6d90-470f-afca-3a5527682344" />
   <Project Path="ProcessApp/ProcessApp.csproj" Id="1c0a569f-6d42-40f7-adaa-6641f1b205dd" />
+  <Project Path="ProgressBar/ProgressBar.csproj" Id="c32e6300-19d4-486d-b297-714653033125" />
+  <Project Path="Semaphore/Semaphore.csproj" Id="8d4a7e4f-bb9a-4df5-8cfd-8854212199a4" />
+  <Project Path="Sync/Sync.csproj" Id="044000b6-f29a-47b6-85e0-31c75eb90652" />
+  <Project Path="Tasks/Tasks.csproj" Id="a10a3f66-b87a-4c74-a27a-798018e4c3ce" />
   <Project Path="ThreadApp1/ThreadApp1.csproj" Id="70e93983-223a-4fe1-8d77-b5930ec433c0" />
+  <Project Path="WpfApp1/WpfApp1.csproj" Id="742bc136-5d9a-4520-ab65-61200d89f8cd" />
 </Solution>
